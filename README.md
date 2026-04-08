@@ -2,7 +2,8 @@
 
 ![Project Home Page](Project-Images/Home-pg1.png)
 
-> **Project Overview:** This Power BI project analyzes labor market dynamics across 30+ European countries, uncovering a stark "Education Shield" in Western Europe and structural inversions in candidate states such as Turkey.  
+> **Project Overview:** This Power BI project analyzes labor market dynamics across 30+ European countries, uncovering a stark "Education Shield" in Western Europe and structural inversions in candidate states such as Turkey.
+> 
 > **The Vision:** This project was designed to transform raw, complex Eurostat labour data into an interactive decision-support tool. The goal was to move beyond static reporting and explore the intersection of geography, education, and demographics to identify which factors most heavily influence employment resilience across Europe.
 > 
 > **The Problems:** Working with Eurostat data presents a unique "Grain" challenge: datasets often mix National, NUTS1, and NUTS2 levels into a single column. I solved this by architecting a Multi-Level Star Schema, allowing the user to seamlessly transition from a high-level European overview to a specific regional trend without data duplication or calculation errors.  
