@@ -11,8 +11,7 @@
 Predictive Motion: The animated Scatter Plot reveals the "lag" in economic recovery, showing how different countries move through the quadrants of educational employment over a decade.  
 > **The Problems:** Working with Eurostat data presents a unique "Grain" challenge: datasets often mix National, NUTS1, and NUTS2 levels into a single column. I solved this by architecting a Multi-Level Star Schema, allowing the user to seamlessly transition from a high-level European overview to a specific regional trend without data duplication or calculation errors.  
 > **Tools & Technologies:**  
-Power BI: UI/UX Design & Data Visualization.  
-Power Query (M): Data transformation and NUTS-level grain alignment.  
-DAX: Advanced measures for "Education Shield" and dynamic risk reduction.  
-Data Source: Eurostat LFS Dataset (2026 update)   
+*Power BI*: UI/UX Design & Data Visualization.  
+*Power Query (M)*: Data transformation and NUTS-level grain alignment.  
+*DAX*: Advanced measures for "Education Shield" and dynamic risk reduction.    
 *Data Source: Eurostat LFS Dataset (March 2026).*
